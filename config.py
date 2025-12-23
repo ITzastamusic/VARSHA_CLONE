@@ -58,7 +58,7 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBots47b0e9') # youtube song api key
 #----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://t.me/iamvillain77")
+SOURCE = getenv("SOURCE", "https://t.me/ixasta1")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/ITzastamusic/VARSHA_CLONE",
@@ -76,7 +76,7 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/iamvillain77")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ixasta1")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/odsnetwork")
 CHAT = getenv("CHAT", "https://t.me/odsnetwork")
 # ------------------------------------------------------------------------------
