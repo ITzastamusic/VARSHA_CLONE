@@ -21,7 +21,7 @@ from datetime import datetime
 
 CLONES = set()
 
-C_BOT_DESC = "ᴡᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs ? ᴄʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nᴠɪsɪᴛ : @kuku_music_bot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - ᴜᴘᴅᴀᴛᴇ : @iamvillain77\n - sᴜᴘᴘᴏʀᴛ : @odsnetwork"
+C_BOT_DESC = "ᴡᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs ? ᴄʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nᴠɪsɪᴛ : @varshaamusicbot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - ᴜᴘᴅᴀᴛᴇ : @ixasta1 \n - sᴜᴘᴘᴏʀᴛ : @odsnetwork"
 
 C_BOT_COMMANDS = [
     {"command": "/start", "description": "sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ"},
